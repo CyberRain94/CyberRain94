@@ -89,6 +89,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/cyberrain94/cyberrain94/output/snake.svg" alt="Snake animation" />
+<a href="https://raw.githubusercontent.com/cyberrain94/cyberrain94/output/snake.svg" alt="Snake animation" />
 
 ###
