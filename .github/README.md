@@ -14,7 +14,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=cyberrain94.cyberrain94"  />
+  <img href="https://visitor-badge.laobi.icu/badge?page_id=cyberrain94.cyberrain94&"  />
 </div>
 
 ###
