@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm  from the Dominican Republic currently residing in Connecticut.<br><br>- 🔭 I’m working as Intern at Decian<br>- 📚 I'm currently learning Anything and Everything tech<br>- ⚡ In my free time I Play Video Games, go adventure, Enjoy nature</p>
+<p align="left">I'm  from the Dominican Republic currently residing in Connecticut.<br><br>- 🔭 I’m working as Intern at Decian Inc<br>- 📚 I'm currently learning Anything and Everything tech<br>- ⚡ In my free time I Play Video Games, go adventure, Enjoy nature</p>
 
 ###
 
